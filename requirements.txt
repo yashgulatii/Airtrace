@@ -1,0 +1,4 @@
+colorama
+pywifi
+comtypes
+rich
